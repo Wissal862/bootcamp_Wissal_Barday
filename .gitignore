@@ -7,3 +7,10 @@ __pycache__/
 
 # Ignore environment files
 .env
+# Jupyter + data
+.ipynb_checkpoints/
+*.ipynb_checkpoints*
+__pycache__/
+*.pyc
+.env
+homework/homework1/data/
